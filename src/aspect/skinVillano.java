@@ -1,5 +1,5 @@
 package aspect;
 
-public class skin-villano {
+public class skinVillano {
     
 }
