@@ -1,5 +1,5 @@
 package armamento;
 
-public class arma {
+public class Arma {
     
 }

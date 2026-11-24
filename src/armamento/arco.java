@@ -1,5 +1,5 @@
 package armamento;
 
-public class arco {
+public class Arco {
     
 }
