@@ -1,5 +1,5 @@
 package mundos;
 
-public class nivel5 {
+public class Nivel {
     
 }
