@@ -1,5 +1,5 @@
 package armamento;
 
-public class escudo {
+public class Daga {
     
 }

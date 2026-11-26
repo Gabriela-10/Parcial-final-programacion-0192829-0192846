@@ -1,5 +1,5 @@
 package armamento;
 
-public class espada {
+public class Espada {
     
 }
